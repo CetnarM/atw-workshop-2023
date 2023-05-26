@@ -35,5 +35,7 @@ Maciej Wyrodek
 ## Name convention
 * directory should be named as a feauture e.g. browse or cart
 * filename should convention camelCase and describe what a test do e.g. in directory cart the test has name addToCart.cy.js
+* (describe) should have name of file(subcategory) e.g. 
+* (it) should start with "should" describe action and assertion e.g. it("should add an item to the cart")
 
 
