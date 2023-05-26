@@ -1,6 +1,6 @@
 module.exports = {
-    projectId: "uYcTMn", // Setup
-   //projectId: "2yrFzs", // kodyfikatorzy
+    //projectId: "uYcTMn", // Setup
+   projectId: "2yrFzs", // kodyfikatorzy
   // projectId: "O3tIhW", // bitowi
    //projectId: "ETKTUI", // Pętlowi
   // projectId: "km0hgO", // Debuig
