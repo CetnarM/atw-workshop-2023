@@ -32,4 +32,8 @@ Maciej Wyrodek
 * Linkedin: https://www.linkedin.com/in/wyrodek/
 * Facebook:https://www.facebook.com/MaciejWyrodek.ITea/
 
+## Name convention
+* directory should be named as a feauture e.g. browse or cart
+* filename should convention camelCase and describe what a test do e.g. in directory cart the test has name addToCart.cy.js
+
 
